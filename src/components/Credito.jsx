@@ -24,7 +24,7 @@ export default function Credito(props){
     }
 
     return (
-        <Card cor='yellow' title='Total de Credíto'>
+        <Card cor='bg-blue-500' title='Total de Credíto'>
             <div>
                 <Title>R${credito},00</Title>
                 <Input

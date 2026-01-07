@@ -22,7 +22,7 @@ export default function Debito(props){
         })
     }
     return (
-        <Card cor='blue' title='Total de Débito'>
+        <Card cor='bg-violet-500' title='Total de Débito'>
             <div>
                 <Title>R${debito || 0},00</Title>
                 <Input
