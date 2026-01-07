@@ -10,5 +10,5 @@ export default defineConfig({
       plugins: [tailwindcss(), autoprefixer], // Chame tailwindcss como função ()
     },
   },
-  base: '/gerenciador-financas/'
+  base: '/'
 })
